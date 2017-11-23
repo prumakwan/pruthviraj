@@ -39,6 +39,7 @@ tr:nth-child(even) {
     text-align: left;
     font-size: 25px;
     background-color: bisque;
+    padding: 0 0 6px 30px;
 }
 .f11
 {
