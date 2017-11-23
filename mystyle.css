@@ -1,0 +1,50 @@
+table {
+    font-family: cursive;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+.x11
+{
+    color: #ada5b5;
+    
+}
+
+.a11
+{
+    color: #d27f6a;
+}
+.b11
+{
+    color: #B42B08;
+}
+
+.c11
+{
+    text-align: center;
+    color: cadetblue;
+}
+.d11
+{
+    color: deeppink;
+    text-align: left;
+    font-size: 25px;
+    background-color: bisque;
+}
+.f11
+{
+    font-size: 18px;
+}
+.q11
+{
+    color: blue;
+}
