@@ -1,33 +1,24 @@
+.ft1
+{
+    padding-top: 70px;
+}
+.ft2
+{
+    padding-top: 50px;
+}
 table {
     font-family: cursive;
     border-collapse: collapse;
     width: 100%;
 }
-
 td, th {
     border: 1px solid #dddddd;
     text-align: left;
     padding: 8px;
 }
-
 tr:nth-child(even) {
     background-color: #dddddd;
 }
-.x11
-{
-    color: #ada5b5;
-    
-}
-
-.a11
-{
-    color: #d27f6a;
-}
-.b11
-{
-    color: #B42B08;
-}
-
 .c11
 {
     text-align: center;
@@ -44,8 +35,17 @@ tr:nth-child(even) {
 .f11
 {
     font-size: 18px;
+    padding-left: 15px;
 }
-.q11
+.o11
 {
-    color: blue;
+    color: coral;
+}
+.a11
+{
+    color: #059994;
+}
+.b11
+{
+    color: #88b7c5;
 }
