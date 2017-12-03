@@ -26,10 +26,10 @@ tr:nth-child(even) {
 }
 .d11
 {
-    color: deeppink;
+    color: #468499;
     text-align: left;
     font-size: 25px;
-    background-color: bisque;
+    background-color: #fff2cb;
     padding: 0 0 6px 30px;
 }
 .f11
